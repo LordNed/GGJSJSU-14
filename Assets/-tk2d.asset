@@ -693,8 +693,8 @@ MonoBehaviour:
     assetName: 
     version: 3
   - name: _debugSpriteCollection
-    spriteCollectionGUID: e042f672e0ed3af47a44ac7f15bd831f
-    spriteCollectionDataGUID: f5d1c0a4566ad8c4c8ccbd4186d84b17
+    spriteCollectionGUID: a50194112aa4b9546b0ac04b8e27fea7
+    spriteCollectionDataGUID: 3559c16423c4bea4eb6affbd636130af
     spriteNames:
     - debug_checker_a
     - debug_checker_b
@@ -704,9 +704,9 @@ MonoBehaviour:
     - cd45c35f47f473840bdbf35cd460838a
     - d6d7021c1482cbe4f962b6b21a3d78cb
     spriteTextureTimeStamps:
-    - 1390597955.75864
-    - 1390597964.03611
-    - 1390597978.10092
+    - 1390598219.46677
+    - 1390598219.46877
+    - 1390598219.46977
     managedSpriteCollection: 0
     loadable: 0
     assetName: 
